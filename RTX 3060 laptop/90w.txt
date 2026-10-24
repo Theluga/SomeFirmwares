@@ -1,0 +1,29 @@
+Sign-On Message       : E4735 SKU 110 VGA BIOS
+Build GUID            : 44E5282A674D4149A176FD53B56D3DF6
+Build Number          : 30600978
+IFR Subsystem ID      : 17AA-3A5D
+Subsystem Vendor ID   : 0x17AA
+Subsystem ID          : 0x3A5D
+Version               : 94.06.34.00.38
+Image Hash            : N/A
+Product Name          : GPU Board
+Device Name(s)        : Graphics Device
+Board ID              : 0x0280
+Vendor ID             : 0x10DE
+Device ID             : 0x2520
+Hierarchy ID          : Normal Board
+Chip SKU              : 775-0
+Project               : 4735-0110-Q
+Build Date            : 10/31/21
+Modification Date     : 02/16/22
+UEFI Version          : 0x60010 ( x64 )
+UEFI Variant ID       : 0x000000000000000A ( GA1xx )
+UEFI Signer(s)        : Microsoft Corporation UEFI CA 2011
+XUSB-FW Version ID    : N/A
+XUSB-FW Build Time    : N/A
+InfoROM Version       : G001.0000.03.03
+InfoROM Backup        : Present
+License Placeholder   : Present
+GPU Mode              : N/A
+CEC OTA-signed Blob   : Not Present
+

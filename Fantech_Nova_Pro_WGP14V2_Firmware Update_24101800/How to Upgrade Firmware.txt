@@ -1,0 +1,13 @@
+Important!!!
+Make sure the gamepad isn't connected to any device before starting the gamepad firmware update process! During the firmware update process, do not touch or move the gamepad to avoid update failure.
+
+How to Update Gamepad Firmware:
+1. Run as administrator on "Firmware Update Tool V2.6.10.exe"
+2. Press Triangle and DPAD UP Button simulatenously.
+3. Plug in the cable while still holding the buttons.
+4. Press update button on the firmware file and wait until it complete.
+5. After the process is complete, please do Gamepad Calibration immediately.
+
+Gamepad Calibration
+When the gamepad is at the off state, press Home + Turbo + Option button simulatenously, the LED Indicator will blinking that indicates you're entering calibration mode
+Rotate your both Analog 3 times slowly and press your both trigger 3 times with a gently, your gamepad will turn off immediately after the calibration is success.
